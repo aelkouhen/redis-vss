@@ -84,7 +84,7 @@ In this last demo, you will learn how to:
 
 ![RAG](https://github.com/aelkouhen/redis-vss/assets/22400454/527f06e7-fcfc-4b78-a479-56a29c0ee03e)
 
-## Demo 4bis: Retieval-Augmented Generation (RAG) on AWS Bedrock [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/4-%20Retrieval-Augmented%20Generation%20(RAG)%20-%20AWS.ipynb)
+## Demo 4bis: Retieval-Augmented Generation (RAG) on AWS Bedrock [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aelkouhen/redis-vss/blob/main/4bis-%20Retrieval-Augmented%20Generation%20(RAG)%20-%20AWS.ipynb)
 
 In this last demo, you will learn how to:
 - Create vector embeddings for a private knowledge base (e.g., PDF files, blogs posts),
