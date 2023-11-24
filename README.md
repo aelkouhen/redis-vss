@@ -17,8 +17,8 @@ Redis Vector Similarity Search Workshop Materials.
 * [Visual Vector Search](#demo-2-visual-vector-search-)
 * [Hybrid Search](#demo-2bis-hybrid-search-)
 * [Semantic Search](#demo-3-semantic-search-)
-* [Retieval-Augmented Generation using GCP VertexAI](#demo-4-retieval-augmented-generation-rag-gcp)
-* [Retieval-Augmented Generation using AWS Bedrock](#demo-4bis-retieval-augmented-generation-rag-aws)
+* [Retieval-Augmented Generation using GCP VertexAI](#demo-4-retieval-augmented-generation-rag-on-gcp-vertexai-)
+* [Retieval-Augmented Generation using AWS Bedrock](#demo-4bis-retieval-augmented-generation-rag-on-aws-bedrock-)
 
 ## Pre-requisites
 You need to create a Redis Enterprise DB with `RedisJSON` and `RediSearch` modules. Then, Use the public endpoint in the notebooks.
