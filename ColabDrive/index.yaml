@@ -1,0 +1,21 @@
+index:
+  name: blogs_idx
+  storage_type: hash
+  prefix: post
+
+fields:
+  # define text fields
+  text:
+  - name: url
+  - name : title
+  - name : date
+  - name : text
+  # define tag fields
+  tag:
+  - name : author
+  # define vector fields
+  vector:
+  - name: emb
+    dims: 768
+    algorithm: flat
+    distance_metric: cosine
